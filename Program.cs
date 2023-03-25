@@ -6,10 +6,5 @@ using System.Threading.Tasks;
 
 namespace TPMODUL6_1302210135
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
+ 
 }
